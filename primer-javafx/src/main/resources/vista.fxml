@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1" fx:controller="es.iesbarajas.Controller">
+   <children>
+      <Label id="lblMensaje" fx:id="lblMensaje" layoutX="6.0" layoutY="112.0" text="Hola Mundo">
+         <font>
+            <Font size="60.0" />
+         </font>
+      </Label>
+      <Button id="btnSaludar" layoutY="200.0" mnemonicParsing="false" onAction="#saludar" prefHeight="94.0" prefWidth="600.0" text="Saludar">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
