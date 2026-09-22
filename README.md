@@ -1,2 +1,6 @@
 # Eclipse-Workspace-JavaFX
 
+## Exercises
+- **primer-javafx:** simple hello world and button interaction.
+- **segundo-javafx:** formulary demo with data validation through REGEX.
+
