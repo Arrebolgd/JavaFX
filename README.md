@@ -10,3 +10,6 @@
 #### **_003_tercer-javafx:** 
 - **EN:** formulary that calculates a gym quotation through ComboBox selection.
 - **ES:**
+#### **_004_Calculadora_Cuotas_Upgrade_1** 
+- **EN:** first upgrade for the quotate gym calculator (purely visual).
+- **ES:**
